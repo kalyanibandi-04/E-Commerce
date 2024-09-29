@@ -30,6 +30,6 @@
 ---
 
 ### Admin Panel
-The admin panel allows administrators to view and manage users and items. It also has two tabs: "Control Users" and "Control Items" to easily view and manage.
+The admin panel allows administrators to view and manage users and items. It also has two tabs: "Control Users" and "Control Items" to easily view and manages.
   * Username: admin
   * Password: admin
